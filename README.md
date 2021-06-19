@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjj118&show_icons=true&count_private=true&include_all_commits=true" alt="sjj118's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjj118&hide=issues&show_icons=true&count_private=true&include_all_commits=true" alt="sjj118's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjj118&layout=compact" />
 </div>
